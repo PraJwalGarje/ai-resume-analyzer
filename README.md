@@ -69,8 +69,6 @@ npm install
 
 ## Run Development Server:
 
-Create a production build:
-
 ```bash
 npm run dev
 ```
